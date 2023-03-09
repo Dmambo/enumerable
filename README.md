@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Decode Morse code</b></h1>
+  <h1><b>enumerable</b></h1>
 
 </div>
 
@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Decode Morse code\] ](#-decode-morse-code-)
+- [📖 \[enumerable\] ](#-decode-morse-code-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -33,11 +33,9 @@
 <!-- PROJECT DESCRIPTION -->
 
 
-# 📖 [Decode Morse code] <a name="about-project"></a>
+# 📖 [enumerable] <a name="about-project"></a>
 
-**Decode Morse code** is a tutorial on how to create a functionalities in ruby
-
-During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+**enumerable** Create your own Enumerable is a project to create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,7 +52,7 @@ During your vacation at the seaside, time after time you find old bottles with p
 
 ### Key Features <a name="key-features"></a>
 
-- **Decode morse message**
+- **Enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
