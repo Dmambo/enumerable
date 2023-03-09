@@ -32,7 +32,6 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-
 # 📖 [enumerable] <a name="about-project"></a>
 
 **enumerable** Create your own Enumerable is a project to create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
@@ -80,24 +79,24 @@ To get a local copy up and running, follow these steps.
 
 2. [Node and npm](https://nodejs.org/en/download/) are installed. Here are the versions I'll be using while making this tutorial:
 
-    ```shell
-    $ node --version
-    v16.13.2
+   ```shell
+   $ node --version
+   v16.13.2
 
-    $ npm --version
-    8.1.2
-    ```
-    > Installing npm adds two commands to the system—`npm` and `npx`—both of which I'll be using while making this tutorial.
+   $ npm --version
+   8.1.2
+   ```
+
+   > Installing npm adds two commands to the system—`npm` and `npx`—both of which I'll be using while making this tutorial.
 
 3. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed. Here's the version I'll be using while making this tutorial:
 
-    ```shell
-    $ git --version
-    git version 2.29.1.windows.1
-    ```
+   ```shell
+   $ git --version
+   git version 2.29.1.windows.1
+   ```
 
 4. A [GitHub](https://github.com/signup) account. :octocat:
-
 
 ### Setup
 
@@ -110,7 +109,6 @@ Clone this repository to your desired folder:
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- AUTHORS -->
 
@@ -125,6 +123,7 @@ Clone this repository to your desired folder:
 - LinkedIn: [Dmambo](https://linkedin.com/in/Dmambo)
 
 👤 **Author2**
+
 - GitHub: [@Fahim-Khan-P](https://github.com/Fahim-Khan-P/)
 - LinkedIn: [Fahim Khan](https://www.linkedin.com/in/fahimkhan-p/)
 
@@ -133,6 +132,8 @@ Clone this repository to your desired folder:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+
+- **Add more list**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
